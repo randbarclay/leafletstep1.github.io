@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* legend styling */
+.legend {
+  line-height: 18px;
+  color: #000000;
+  padding: 6px 8px;
+  background: #FFFFFF;
+  border-radius: 5px;
+}
+
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
